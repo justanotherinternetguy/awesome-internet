@@ -1,5 +1,55 @@
 ## Stuff
 
+[Yet Another Firefox Hardening Guide](https://chrisx.xyz/blog/yet-another-firefox-hardening-guide/)- For Firefox users to increase privacy in the browser
+
+[Regex 101](https://regex101.com/)- Very useful regex syntax testing
+
+[AMC Trainer](https://www.amctrainer.com/play)- AMC8 - AIME level math training
+
+[Noclip.Website](https://noclip.website/)- A large collected of internet video game maps
+
+[Sumi News](https://sumi.news/)- The news of the internet
+
+[IIisometric](https://fffuel.co/iiisometric/)- SVG generator for isometric design
+
+[FARK](https://www.fark.com/)- Comedy news
+
+[RosettaGit](https://rosettagit.org/)- Solutions to the same coding task in many, many, many, coding languages
+
+[Make Frontend Dope Again](https://makefrontendshitagain.party/)- Remember when frontend was cool?
+
+[TimeBloc](https://time-bloc.vercel.app/)- Organize the time you have
+
+[Zombo](https://www.zombo.com/)- The one and only.
+
+[Color Clock](https://clock.niftyoctopus.com/)- Useless but fun.
+
+[WikiFox](https://wikifox.ml/)- Modern wikipedia
+
+[Shodan](https://www.shodan.io/)- OSINT Search Engine
+
+[JustPomodoro](https://justpomodoro.com/)- Minimalistic pomodoro
+
+[Just Sort](https://sort.bullinger.dev)- Sorting algorithms visualized 
+
+[XYZ Draw](https://xyzbots.com/draw/)- Online Whiteboard
+
+[Dimensions.com](https://www.dimensions.com/)- Database of dimensions of objects
+
+[LandUnited](https://landunited.com/)- Cool screensaver
+
+[PrintFriendly](https://www.printfriendly.com/)- Make any webpage print-friendly
+
+[PolyPizza](https://poly.pizza/)- 3D models for everyone
+
+[Wifi Because Fi](https://wifibecausefi.com/)- Cool sites
+
+[ChangeDetection](https://github.com/dgtlmoon/changedetection.io)- Detect when web pages change
+
+
+
+[Pointless Sites](https://www.pointlesssites.com/)- Pointless Sites to waste time in
+
 [Awesome MacOS Command Line](https://git.herrbischoff.com/awesome-macos-command-line/about/)- in the name
 
 [Art of the Terminal](https://github.com/jlevy/the-art-of-command-line)- Learn the command line!
@@ -117,6 +167,8 @@
 [RandomWebsite](https://random-website.com/)- RANDOM. WEBSITE
 
 [Killed By Google](https://killedbygoogle.com/)- What did Google kill?
+
+[Google Cemetery](https://landunited.com/)- What did Google kill 2?
 
 [Explain Shell](https://explainshell.com/)- Linux command help
 
