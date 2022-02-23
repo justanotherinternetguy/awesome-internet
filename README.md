@@ -1,4 +1,14 @@
-## Stuff
+[Carrot2](https://search.carrot2.org/#/search/web)- Grouped visual searching from multiple search engines.
+
+[Just Delete Me](https://justdeleteme.xyz/index.html)- Database of account deletion methods for sites
+
+[Fake Identity Generator](https://backgroundchecks.org/justdeleteme/fake-identity-generator/)- For a quick fake identity
+
+[OSINT Framework](https://osintframework.com/)- Collection of sites for OSINT-ing
+
+[kitc](https://ki.tc/)- CLI URL shortener and simplifier
+
+[What is my browser?](https://www.whatismybrowser.com/)- Browser scan + check
 
 [Yet Another Firefox Hardening Guide](https://chrisx.xyz/blog/yet-another-firefox-hardening-guide/)- For Firefox users to increase privacy in the browser
 
@@ -45,8 +55,6 @@
 [Wifi Because Fi](https://wifibecausefi.com/)- Cool sites
 
 [ChangeDetection](https://github.com/dgtlmoon/changedetection.io)- Detect when web pages change
-
-
 
 [Pointless Sites](https://www.pointlesssites.com/)- Pointless Sites to waste time in
 
@@ -150,7 +158,7 @@
 
 [Awesome MacOS](https://github.com/iCHAIT/awesome-macOS#command-line-utilities)- Curated list of tools for MacOS
 
-[Awesome OSINT](https://github.com/jivoi/awesome-osint#-geospatial-research-and-mapping-tools)- idk even know at this point this is just a bunch of weird utilies for stalking people
+[Awesome OSINT](https://github.com/jivoi/awesome-osint)- idk even know at this point this is just a bunch of weird utilies for stalking people
 
 [Awesome CLI Apps](https://git.herrbischoff.com/awesome-command-line-apps/about/)- Command line apps, made for Windows, Mac, and Linux
 
