@@ -58,8 +58,6 @@
 
 [Pointless Sites](https://www.pointlesssites.com/)- Pointless Sites to waste time in
 
-[Awesome MacOS Command Line](https://git.herrbischoff.com/awesome-macos-command-line/about/)- in the name
-
 [Art of the Terminal](https://github.com/jlevy/the-art-of-command-line)- Learn the command line!
 
 [DevDocs](https://devdocs.io/)- API documentation 
@@ -150,17 +148,7 @@
 
 [Where Is This?](https://www.where-is-this.com/)- Reverse GeoGuessr.
 
-[Awesome 2.0](https://github.com/topics/awesome)- Even better!
-
-[Awesome 1.0](https://github.com/sindresorhus/awesome)- Awesome 1.0
-
 [Open Source MacOS](https://github.com/serhii-londar/open-source-mac-os-apps)- Open Source MacOS apps
-
-[Awesome MacOS](https://github.com/iCHAIT/awesome-macOS#command-line-utilities)- Curated list of tools for MacOS
-
-[Awesome OSINT](https://github.com/jivoi/awesome-osint)- idk even know at this point this is just a bunch of weird utilies for stalking people
-
-[Awesome CLI Apps](https://git.herrbischoff.com/awesome-command-line-apps/about/)- Command line apps, made for Windows, Mac, and Linux
 
 [This Button Does Nothing](https://thisbuttondoesnothing.com/)- cool sites
 
@@ -247,8 +235,6 @@
 [8mbVideo](https://8mb.video/)- Compress any video to <8mb (Good for discord)
 
 [IP Utilities](https://aruljohn.com/)- IP address lookup and online utilities
-
-[AwesomePiracy](https://github.com/Igglybuff/awesome-piracy)- NOT MINE: Curated list of sites for piracy and online security
 
 [TTVTetris](https://www.rossipotti.de/ausgabe28/tetris/index.html)- Fun and simple tetris, unblocked in school.
 
