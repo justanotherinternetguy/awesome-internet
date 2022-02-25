@@ -1,3 +1,41 @@
+[Awesome 1](https://github.com/sindresorhus/awesome)- Repo of CS resources
+
+[Awesome 2](https://github.com/topics/awesome)- Github topic of collections
+
+[Line Graph Maker](https://linegraphmaker.co/)- Custom line-graph creator
+
+[Justforfun.io](https://justforfun.io/)- Showcasing creative coding
+
+[Internet Live Stats](https://www.internetlivestats.com/)- Live statistics about the internet
+
+[Judy Records](https://www.judyrecords.com/)- Free public court case search
+
+[Punctuation Guide](https://www.thepunctuationguide.com/)- Punctuation guide for grammar
+
+[RDrop](https://rdrop.link/)- P2P file transfer (no size limit)
+
+[How Browsers Work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)- In-Depth description of the internals of a web browser.
+
+[Build your own text editor](https://viewsourcecode.org/snaptoken/kilo/)- Tutorial to build your own CLI text editor from scratch with C
+
+[Interneting is hard](https://www.internetingishard.com/)- Help for frontend devs
+
+[OSINT start.me](https://start.me/p/DPYPMz/the-ultimate-osint-collection)- Collection of OSINT blogs / tools
+
+[Online Math Tools](https://onlinemathtools.com/)- Collection of math tools online
+
+[Vim Setup Explained](https://www.guckes.net/vim/setup.html)- Explanation of Vim settings
+
+[Build your solar system](https://dmilin1.github.io/PrincipiaJS/build/index.html)- Solar system / planetary sim online
+
+[Flow CV](https://flowcv.io/)- Format your CV
+
+[Monotonous](https://monotonous.netlify.app/)- Speed up boring coding
+
+[Pagify](https://www.gopagify.com/)- Turn your google doc into a website
+
+[OSINT Essentials](https://www.osintessentials.com/)- OSINT resources
+
 [Carrot2](https://search.carrot2.org/#/search/web)- Grouped visual searching from multiple search engines.
 
 [Just Delete Me](https://justdeleteme.xyz/index.html)- Database of account deletion methods for sites
