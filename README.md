@@ -1,5 +1,11 @@
 [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)- Repo of tutorials and resources to create your own programs and apps with a variety of languages
 
+[Biology Pages](https://www.biology-pages.info/) - Good online textbook of competitive biology resources
+
+[Campbell Biology Practice Test](https://media.pearsoncmg.com/bc/bc_campbell_biology_11/msa/content/practice-test/app/) - Bio practice tests for the Campbell biology textbook (comp and AP Bio)
+
+
+
 [Awesome 1](https://github.com/sindresorhus/awesome)- Repo of CS resources
 
 [Awesome 2](https://github.com/topics/awesome)- Github topic of collections
